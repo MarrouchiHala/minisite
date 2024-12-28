@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historique des Réseaux Sociaux</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Historique des Réseaux Sociaux</h1>
+    <img src="image_historique.jpg" alt="Évolution des réseaux sociaux">
+    
+    <h2>Dates Clés</h2>
+    <ol>
+        <li>2004 : Lancement de Facebook</li>
+        <li>2010 : Lancement d'Instagram</li>
+        <li>2016 : Lancement de TikTok</li>
+    </ol>
+
+    <h2>Réseaux Sociaux Populaires</h2>
+    <ul>
+        <li>Facebook</li>
+        <li>Instagram</li>
+        <li>TikTok</li>
+        <li>Twitter</li>
+        <li>LinkedIn</li>
+    </ul>
+
+    <h2>Comparaison des Fonctionnalités</h2>
+    <table>
+        <tr>
+            <th>Réseau</th>
+            <th>Fonctionnalités</th>
+        </tr>
+        <tr>
+            <td>Facebook</td>
+            <td>Partage de photos, vidéos, événements</td>
+        </tr>
+        <tr>
+            <td>Instagram</td>
+            <td>Partage de photos, stories, IGTV</td>
+        </tr>
+        <tr>
+            <td>TikTok</td>
+            <td>Vidéos courtes, effets spéciaux</td>
+        </tr>
+    </table>
+
+    <h2>Vidéo sur l'Histoire des Réseaux Sociaux</h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+
+    <h2>Liens</h2>
+    <p><a href="parametres_confidentialite.html">Paramètres de Confidentialité</a></p>
+    <p><a href="services.html">Services Rendus</a></p>
+    <p><a href="https://www.example.com" target="_blank">Article de Référence</a></p>
+</body>
+</html>

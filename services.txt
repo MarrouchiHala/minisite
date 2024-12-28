@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Services Rendus par les Réseaux Sociaux</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Services Rendus par les Réseaux Sociaux</h1>
+    <img src="image_services.jpg" alt="Services des réseaux sociaux">
+    
+    <h2>Services Offerts</h2>
+    <ol>
+        <li>Partage de contenu</li>
+        <li>Messagerie instantanée</li>
+        <li>Création d'événements</li>
+    </ol>
+
+    <h2>Avantages et Inconvénients</h2>
+    <ul>
+        <li>Avantage : Connexion avec des amis et la famille</li>
+        <li>Inconvénient : Risques de confidentialité</li>
+        <li>Avantage : Accès à des informations en temps réel</li>
+        <li>Inconvénient : Désinformation potentielle</li>
+    </ul>
+
+    <h2>Statistiques d'Utilisation</h2>
+    <table>
+        <tr>
+            <th>Réseau</th>
+            <th>Utilisateurs Actifs</th>
+        </tr>
+        <tr>
+            <td>Facebook</td>
+            <td>2.8 milliards</td>
+        </tr>
+        <tr>
+            <td>Instagram</td>
+            <td>1.3 milliard</td>
+        </tr>
+        <tr>
+            <td>TikTok</td>
+            <td>1 milliard</td>
+        </tr>
+    </table>
+
+    <h2>Vidéo sur l'Impact des Réseaux Sociaux</h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+
+    <h2>Liens</h2>
+    <p><a href="historique.html">Historique des Réseaux Sociaux</a></p>
+    <p><a href="parametres_confidentialite.html">Paramètres de Confidentialité</a></p>
+    <p><a href="https://www.example.com" target="_blank">Étude de Cas</a></p>
+</body>
+</html>

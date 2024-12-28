@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paramètres de Confidentialité</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Paramètres de Confidentialité</h1>
+    <img src="image_confidentialite.jpg" alt="Sécurité en ligne">
+    
+    <h2>Paramètres de Confidentialité</h2>
+    <ol>
+        <li>Contrôle des publications</li>
+        <li>Gestion des amis</li>
+        <li>Paramètres de localisation</li>
+    </ol>
+
+    <h2>Conseils de Sécurité</h2>
+    <ul>
+        <li>Utiliser l'authentification à deux facteurs</li>
+        <li>Vérifier les paramètres de confidentialité régulièrement</li>
+        <li>Être prudent avec les demandes d'amis</li>
+    </ul>
+
+    <h2>Comparaison des Confidentialités</h2>
+    <table>
+        <tr>
+            <th>Réseau</th>
+            <th>Confidentialité</th>
+        </tr>
+        <tr>
+            <td>Facebook</td>
+            <td>Paramètres détaillés, mais parfois complexes</td>
+        </tr>
+        <tr>
+            <td>Instagram</td>
+            <td>Options de confidentialité simples</td>
+        </tr>
+        <tr>
+            <td>TikTok</td>
+            <td>Paramètres de confidentialité en évolution</td>
+        </tr>
+    </table>
+
+    <h2>Vidéo sur la Gestion de la Confidentialité</h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+
+ <h2>Liens</h2>
+    <p><a href="historique.html">Historique des Réseaux Sociaux</a></p>
+    <p><a href="services.html">Services Rendus</a></p>
+    <p><a href="https://www.example.com" target="_blank">Politique de Confidentialité</a></p>
+</body>
+</html>
